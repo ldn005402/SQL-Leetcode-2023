@@ -1,1 +1,4 @@
 175. Combine Two Tables - 简单的left join，右边表格不match左边表格的会是NULL
+181. Employees Earning More Than Their Managers - inner join
+182. Duplicate Emails - group by having count
+183. Customers Who Never Order  - where is null
