@@ -3,6 +3,4 @@
 182. Duplicate Emails - group by having count
 183. Customers Who Never Order  - where is null
 196. Delete Duplicate Emails - Delete语句练习，值得学习的点是 可以FROM table1， table2， 甚至不用join；第二点是直接自身表体比较，删除，类似inner join
-
-
-Test 2023/01/27
+197. Rising Temperature - 
