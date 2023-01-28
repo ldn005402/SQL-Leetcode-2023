@@ -3,4 +3,4 @@
 182. Duplicate Emails - group by having count
 183. Customers Who Never Order  - where is null
 196. Delete Duplicate Emails - Delete语句练习，值得学习的点是 可以FROM table1， table2， 甚至不用join；第二点是直接自身表体比较，删除，类似inner join
-197. Rising Temperature - 
+197. Rising Temperature - 对于一个表格中需要对比的情况，可以直接用FROM table as 1， table as 2，这样去对比
